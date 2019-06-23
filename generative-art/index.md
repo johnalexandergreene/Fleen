@@ -29,8 +29,8 @@ A language for manipulating 2D geometry, made of geometric diagrams.
 
 ## CLOUDED PLAIN
 
-+ **[cp_test0014_refinesound_014_nice STROBE HAZARD @ Vimeo](https://vimeo.com/312196135)**
-+ **[cloudedplain_ground_uniform_strobe_fancymagic004 HQ DOWNLOAD !!STROBE HAZARD!!](https://www.dropbox.com/s/ak3lqzlaxj5ngwq/002_720p_squaresweeper_roaring_condiments_evenniceraudio.mkv?dl=1)**
++ **[cp test0014 refinesound 014_nice STROBE HAZARD @ Vimeo](https://vimeo.com/312196135)**
++ **[cloudedplain ground uniform strobe fancymagic004 HQ DOWNLOAD !!STROBE HAZARD!!](https://www.dropbox.com/s/ak3lqzlaxj5ngwq/002_720p_squaresweeper_roaring_condiments_evenniceraudio.mkv?dl=1)**
 + **[Ten Million Ants Scream Right Now HQ DOWNLOAD !!STROBE HAZARD!!](https://www.dropbox.com/s/4e8zhaur4h3i16c/720p_boxsweeper_ten_million_ants_scream_right_now.mkv?dl=1)**
 + **[Roaring Condiments HQ DOWNLOAD !!STROBE HAZARD!!](https://www.dropbox.com/s/ak3lqzlaxj5ngwq/002_720p_squaresweeper_roaring_condiments_evenniceraudio.mkv?dl=1)**
 + **[More clouded plain videos](https://vimeo.com/user50769355/videos)**
@@ -45,14 +45,14 @@ A language for manipulating 2D geometry, made of geometric diagrams.
 + **[ULTIMATE STROBE HAZARD @ Vimeo](https://vimeo.com/308956882)**
 + **[whelmer46a_5m - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/6t9skr0ua4le5ma/whelmer46a_5m.mkv?dl=1)**
 + **[whelmer001_asymmetric_2way_handmaderainbowpalette @ Vimeo](https://vimeo.com/303935285)**
-+ **[w_test016_strobe2_2_64_simpleperiodic_semisymmetric - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/80dzvb0e6x0t481/w_test016_strobe2_2_64_simpleperiodic_semisymmetric.mkv?dl=1)**
-+ **[w_test018_periodic_asymmetric_2_2_strobe_veryverynice - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/gwbbf5c7rql737j/w_test018_periodic_asymmetric_2_2_strobe_veryverynice.mkv?dl=1)**
++ **[w test016 strobe2 2 64 simpleperiodic semisymmetric - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/80dzvb0e6x0t481/w_test016_strobe2_2_64_simpleperiodic_semisymmetric.mkv?dl=1)**
++ **[w test018 periodic asymmetric 2 2 strobe veryverynice - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/gwbbf5c7rql737j/w_test018_periodic_asymmetric_2_2_strobe_veryverynice.mkv?dl=1)**
 + **[Jubilex @ Vimeo !!STROBE](https://vimeo.com/305281293)**
 + **[Jubilex - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/g1gi545lsywb4vf/w_test21_moreprimitivesound_jubilex.mkv?dl=1)**
-+ **[w_test25_asymmetric_periodic_720x720x120s_60fps.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/crkp35iltsec3bj/w_test25_asymmetric_periodic_720x720x120s_60fps.mkv?dl=1)**
-+ **[w_test24_asymmetric_periodic.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/9sxutjalka76isf/w_test24_asymmetric_periodic.mkv?dl=1)**
-+ **[w_test23_soundtest_soundusescellstripquery_asymmetric_nonperiodic_GOOD_LONG.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/57ol43ws5f5vuor/w_test23_soundtest_soundusescellstripquery_asymmetric_nonperiodic_GOOD_LONG.mkv?dl=1)**
-+ **[w_test23_soundtest_soundusescellstripquery_asymmetric_nonperiodic_GOOD.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/7ywg8y0wpmvt0ki/w_test23_soundtest_soundusescellstripquery_asymmetric_nonperiodic_GOOD.mkv?dl=1)**
++ **[w test25 asymmetric periodic 720x720x120s 60fps.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/crkp35iltsec3bj/w_test25_asymmetric_periodic_720x720x120s_60fps.mkv?dl=1)**
++ **[w test24 asymmetric periodic.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/9sxutjalka76isf/w_test24_asymmetric_periodic.mkv?dl=1)**
++ **[w test23 soundtest soundusescellstripquery asymmetric nonperiodic GOOD LONG.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/57ol43ws5f5vuor/w_test23_soundtest_soundusescellstripquery_asymmetric_nonperiodic_GOOD_LONG.mkv?dl=1)**
++ **[w test23 soundtest soundusescellstripquery asymmetric nonperiodic GOOD.mkv - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/7ywg8y0wpmvt0ki/w_test23_soundtest_soundusescellstripquery_asymmetric_nonperiodic_GOOD.mkv?dl=1)**
 
 
 ---
