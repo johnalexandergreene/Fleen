@@ -43,8 +43,8 @@ A language for manipulating 2D geometry, made of geometric diagrams.
 ## WHELMER
 
 + **[ULTIMATE STROBE HAZARD @ Vimeo](https://vimeo.com/308956882)**
-+ **[whelmer46a_5m - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/6t9skr0ua4le5ma/whelmer46a_5m.mkv?dl=1)**
-+ **[whelmer001_asymmetric_2way_handmaderainbowpalette @ Vimeo](https://vimeo.com/303935285)**
++ **[whelmer46a 5m - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/6t9skr0ua4le5ma/whelmer46a_5m.mkv?dl=1)**
++ **[whelmer001 asymmetric 2way handmaderainbowpalette @ Vimeo](https://vimeo.com/303935285)**
 + **[w test016 strobe2 2 64 simpleperiodic semisymmetric - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/80dzvb0e6x0t481/w_test016_strobe2_2_64_simpleperiodic_semisymmetric.mkv?dl=1)**
 + **[w test018 periodic asymmetric 2 2 strobe veryverynice - HQ DOWNLOAD - !!STROBE!!](https://www.dropbox.com/s/gwbbf5c7rql737j/w_test018_periodic_asymmetric_2_2_strobe_veryverynice.mkv?dl=1)**
 + **[Jubilex @ Vimeo !!STROBE](https://vimeo.com/305281293)**
